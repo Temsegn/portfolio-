@@ -25,7 +25,7 @@ export default function About() {
     {
       icon: <Globe className="w-6 h-6" />,
       title: "Global Scale",
-      description: "Building solutions that can handle millions of users across different continents.",
+      description: "Building solution that can handle millions of users across different continents.",
     },
   ]
 
